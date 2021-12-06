@@ -26,6 +26,10 @@ nav img {
 #about .card {
   margin-left: 30px;
 }
+
+#about .card .btn i {
+  color: #fff;
+}
 /* about Section */
 /*-----------------------------------------------------------------------------------------------------------*/
 /* Featured Section */
