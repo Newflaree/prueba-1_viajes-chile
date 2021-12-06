@@ -10,6 +10,10 @@ body {
 /* General Styles */
 
 /* Navbar Section */
+nav .container{
+  margin-top: -10px;
+  background-color: rgba(0, 0, 0, 0.3);
+}
 nav img {
   height: 40px;
 }
